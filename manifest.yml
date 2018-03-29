@@ -1,0 +1,9 @@
+---
+applications:
+ - name: spring-boot-web-mustache
+   memory: 1G
+   path: target/spring-boot-web-mustache-1.0.jar
+   instances: 1
+   env:
+    SPRING_PROFILES_ACTIVE: cloud
+   timeout: 179 			
