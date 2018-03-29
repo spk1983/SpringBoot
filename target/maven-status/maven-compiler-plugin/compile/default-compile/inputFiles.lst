@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 /home/sachin/Downloads/spring-boot-web-mustache/src/main/java/com/mkyong/SpringBootWebApplication.java
 /home/sachin/Downloads/spring-boot-web-mustache/src/main/java/com/mkyong/WelcomeController.java
+=======
+/home/sachin/Desktop/spring-boot-web-mustache/src/main/java/com/mkyong/SpringBootWebApplication.java
+/home/sachin/Desktop/spring-boot-web-mustache/src/main/java/com/mkyong/WelcomeController.java
+>>>>>>> fe64e7dd5c583a1e3fc76bf38392d6806c6a330f
